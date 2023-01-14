@@ -1,0 +1,42 @@
+image: assets/img/smile.png
+username: Otwooo
+description: Hello, My name is Songhyun Bae.🖐️ <br> I am a student of Dajeon Dashin Highschool.
+# experience: # Remove for hiding the experience section
+#   - start: 2017-05-03
+#     end: 2018-05-06
+#     experience : company name, title
+interests: # Remove for hiding the interests section
+  - Reversing Engineering
+  - Natural Language Processing
+  - Algorithm
+
+awards: # Remove for hiding the awards section  
+  - "인공지능 자율탐구 성과대회 대상"
+  - "코드페어 해커톤 은상"
+  - "E-icon 세계대회 3등"
+  - "충청권 청소년 해킹방어대회 최우수상"
+  - "사이버 공격방어대회 학생부 본선 진출"
+
+social:
+  email: baesonghyun91@gmail.com # Full email address, e.g. "sample@google.com"
+  github: otwooo
+  instagram: bshyun05
+  facebook: profile.php?id=100061382837864 
+
+# skills: # Remove for hiding the skills section
+#   - skill: HTML5 & CSS
+#     value: 85  # Percent value
+ 
+  # orcid: 
+  # scholar: 
+  # publons: 
+  # research_gate: 
+  # dblp:  # Full URL
+  # semantic_scholar:  # Full URL
+  # linkedin:  # Full URL   
+  # gitlab: 
+  # bitbucket: chrjabs
+  # google_plus:
+  # mastodon: https://mastodon.social
+  # twitter: chrjabs
+  # youtube:
